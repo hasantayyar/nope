@@ -1,0 +1,25 @@
+{
+  "name": "nope!",
+  "version": "1.0.0",
+  "description": "Npm package that generates random words and phrases to say \"no\" in different ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasantayyar/nope.git"
+  },
+  "keywords": [
+    "words",
+    "generator.",
+    "no.",
+    "nope"
+  ],
+  "author": "Hasan Tayyar Besik <tayyar.besik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasantayyar/nope/issues"
+  },
+  "homepage": "https://github.com/hasantayyar/nope#readme"
+}
