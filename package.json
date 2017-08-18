@@ -1,5 +1,5 @@
 {
-  "name": "nope!",
+  "name": "sayno",
   "version": "1.0.0",
   "description": "Npm package that generates random words and phrases to say \"no\" in different ways.",
   "main": "index.js",
