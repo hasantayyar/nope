@@ -4,7 +4,7 @@
   "description": "Npm package that generates random words and phrases to say \"no\" in different ways.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo 'really!'"
   },
   "repository": {
     "type": "git",

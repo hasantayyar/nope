@@ -24,6 +24,11 @@
   "Negative",
   "Negatory",
   "That's not going to happen.",
+  "That's a no go!",
+  "NO WAY! Forget it",
+  "Forget it buddy!",
+  "It's not going to happen",
+  "No! Bye!",
   "Nerp",
   "Never",
   "Nix",
@@ -34,12 +39,14 @@
   "Nope sorry",
   "Not a chance",
   "Not",
+  "Are you kidding? NO!",
   "Not possible",
   "Pass",
   "Reject",
   "Zero chance",
+  "No chance",
   "What! No!",
   "Sorry but no!",
   "No way",
   "No and I am not sorry"
-];
+]
